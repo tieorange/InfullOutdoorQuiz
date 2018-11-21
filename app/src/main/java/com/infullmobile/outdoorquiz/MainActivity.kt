@@ -7,9 +7,13 @@ import android.util.Log
 import android.view.MotionEvent
 import android.view.MotionEvent.BUTTON_PRIMARY
 import android.view.MotionEvent.BUTTON_SECONDARY
+import com.mapzen.speakerbox.Speakerbox
 import kotlinx.android.synthetic.main.activity_main.*
 
+
 class MainActivity : AppCompatActivity() {
+
+    val speakerbox by lazy { Speakerbox(this.application) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,13 +30,18 @@ class MainActivity : AppCompatActivity() {
             .setAction("Action", null).show()
     }
 
-
     private fun onLeftClicked() {
         showSnackback("left")
+        speak("left")
     }
 
     private fun onRightClicked() {
         showSnackback("right")
+        speak("right")
+    }
+
+    private fun speak(text: String) {
+        speakerbox.play(text)
     }
 
     override fun onTouchEvent(event: MotionEvent?): Boolean {
