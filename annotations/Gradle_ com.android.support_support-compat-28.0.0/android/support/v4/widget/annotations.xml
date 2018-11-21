@@ -1,0 +1,137 @@
+<root>
+    <item name='android.support.v4.widget.ListViewCompat void scrollListBy(android.widget.ListView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView boolean onInterceptTouchEvent(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.EdgeEffectCompat void onPull(android.widget.EdgeEffect, float, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat android.graphics.drawable.Drawable[] getCompoundDrawablesRelative(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setActivationDelay(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setMaximumVelocity(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView NestedScrollView(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView NestedScrollView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView boolean requestChildRectangleOnScreen(android.view.View, android.graphics.Rect, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat android.support.v4.text.PrecomputedTextCompat.Params getTextMetricsParams(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.PopupWindowCompat void showAsDropDown(android.widget.PopupWindow, android.view.View, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setTextMetricsParams(android.widget.TextView, android.support.v4.text.PrecomputedTextCompat.Params) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setMinimumVelocity(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setEdgeType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setPrecomputedText(android.widget.TextView, android.support.v4.text.PrecomputedTextCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setExclusive(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setRampUpDuration(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView NestedScrollView(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setCustomSelectionActionModeCallback(android.widget.TextView, android.view.ActionMode.Callback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.ListViewCompat boolean canScrollList(android.widget.ListView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setCompoundDrawablesRelativeWithIntrinsicBounds(android.widget.TextView, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setRelativeEdges(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setFirstBaselineToTopHeight(android.widget.TextView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setLineHeight(android.widget.TextView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setLastBaselineToBottomHeight(android.widget.TextView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView void measureChildWithMargins(android.view.View, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat int getLastBaselineToBottomHeight(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView boolean onTouchEvent(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.ScrollerCompat android.support.v4.widget.ScrollerCompat create(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView boolean onGenericMotionEvent(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setCompoundDrawablesRelative(android.widget.TextView, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable, android.graphics.drawable.Drawable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setRampDownDuration(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setRelativeVelocity(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.ScrollerCompat android.support.v4.widget.ScrollerCompat create(android.content.Context, android.view.animation.Interpolator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat int getFirstBaselineToTopHeight(android.widget.TextView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView boolean requestChildRectangleOnScreen(android.view.View, android.graphics.Rect, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setTextAppearance(android.widget.TextView, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.AutoScrollHelper android.support.v4.widget.AutoScrollHelper setMaximumEdges(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat android.support.v4.text.PrecomputedTextCompat.Params getTextMetricsParams(android.widget.TextView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setTextMetricsParams(android.widget.TextView, android.support.v4.text.PrecomputedTextCompat.Params) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setPrecomputedText(android.widget.TextView, android.support.v4.text.PrecomputedTextCompat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.TextViewCompat void setCompoundDrawablesRelativeWithIntrinsicBounds(android.widget.TextView, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.NestedScrollView void measureChild(android.view.View, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

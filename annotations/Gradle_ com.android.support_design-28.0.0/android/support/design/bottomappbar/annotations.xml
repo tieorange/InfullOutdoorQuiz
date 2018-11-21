@@ -1,0 +1,50 @@
+<root>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar BottomAppBar(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior void slideDown(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.support.design.bottomappbar.BottomAppBar, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.support.design.bottomappbar.BottomAppBar, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar BottomAppBar(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior boolean onStartNestedScroll(android.support.design.widget.CoordinatorLayout, android.support.design.bottomappbar.BottomAppBar, android.view.View, android.view.View, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior void slideDown(android.support.design.bottomappbar.BottomAppBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior void slideUp(android.support.design.bottomappbar.BottomAppBar) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBarTopEdgeTreatment void getEdgePath(float, float, android.support.design.shape.ShapePath) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior boolean onStartNestedScroll(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View, android.view.View, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar android.support.design.widget.CoordinatorLayout.Behavior&lt;android.support.design.bottomappbar.BottomAppBar&gt; getBehavior()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar BottomAppBar(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar.Behavior void slideUp(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.bottomappbar.BottomAppBar android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

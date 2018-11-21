@@ -1,0 +1,17 @@
+<root>
+    <item name='android.support.design.behavior.HideBottomViewOnScrollBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, V, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.behavior.HideBottomViewOnScrollBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, V, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.behavior.HideBottomViewOnScrollBehavior void slideDown(V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.behavior.HideBottomViewOnScrollBehavior void slideUp(V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

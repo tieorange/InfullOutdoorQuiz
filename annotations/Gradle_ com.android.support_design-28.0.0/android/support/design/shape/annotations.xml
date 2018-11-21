@@ -1,0 +1,68 @@
+<root>
+    <item name='android.support.design.shape.ShapePath.PathArcOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathArcOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.CutCornerTreatment void getCornerPath(float, float, android.support.design.shape.ShapePath) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathOperation matrix'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.InterpolateOnScrollPositionChangeHelper void stopListeningForScrollChanges(android.view.ViewTreeObserver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.MaterialShapeDrawable android.graphics.Region getTransparentRegion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.MaterialShapeDrawable void getPathForSize(int, int, android.graphics.Path) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.InterpolateOnScrollPositionChangeHelper void startListeningForScrollChanges(android.view.ViewTreeObserver) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.RoundedCornerTreatment void getCornerPath(float, float, android.support.design.shape.ShapePath) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.shape.MaterialShapeDrawable void draw(android.graphics.Canvas) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathLineOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.CornerTreatment void getCornerPath(float, float, android.support.design.shape.ShapePath) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathLineOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathQuadOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.ShapePath.PathQuadOperation void applyToPath(android.graphics.Matrix, android.graphics.Path) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.TriangleEdgeTreatment void getEdgePath(float, float, android.support.design.shape.ShapePath) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.shape.EdgeTreatment void getEdgePath(float, float, android.support.design.shape.ShapePath) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

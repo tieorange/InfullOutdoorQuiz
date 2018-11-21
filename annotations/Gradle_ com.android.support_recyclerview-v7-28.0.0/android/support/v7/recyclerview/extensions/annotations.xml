@@ -1,0 +1,17 @@
+<root>
+    <item name='android.support.v7.recyclerview.extensions.AsyncDifferConfig.Builder android.support.v7.recyclerview.extensions.AsyncDifferConfig&lt;T&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.recyclerview.extensions.AsyncDifferConfig.Builder android.support.v7.recyclerview.extensions.AsyncDifferConfig.Builder&lt;T&gt; setBackgroundThreadExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.recyclerview.extensions.ListAdapter ListAdapter(android.support.v7.recyclerview.extensions.AsyncDifferConfig&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.recyclerview.extensions.AsyncListDiffer AsyncListDiffer(android.support.v7.util.ListUpdateCallback, android.support.v7.recyclerview.extensions.AsyncDifferConfig&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v7.recyclerview.extensions.AsyncDifferConfig.Builder android.support.v7.recyclerview.extensions.AsyncDifferConfig.Builder&lt;T&gt; setMainThreadExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

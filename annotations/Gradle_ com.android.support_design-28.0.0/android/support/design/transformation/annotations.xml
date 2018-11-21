@@ -1,0 +1,98 @@
+<root>
+    <item name='android.support.design.transformation.ExpandableTransformationBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationScrimBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationScrimBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationBehavior boolean layoutDependsOn(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationBehavior android.support.design.transformation.FabTransformationBehavior.FabTransformationSpec onCreateMotionSpec(android.content.Context, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.ExpandableTransformationBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationBehavior void onAttachedToLayoutParams(android.support.design.widget.CoordinatorLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.ExpandableBehavior android.support.design.expandable.ExpandableWidget findExpandableWidget(android.support.design.widget.CoordinatorLayout, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.ExpandableBehavior boolean layoutDependsOn(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationSheetBehavior boolean onExpandedStateChange(android.view.View, android.view.View, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.ExpandableTransformationBehavior boolean onExpandedStateChange(android.view.View, android.view.View, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationSheetBehavior android.support.design.transformation.FabTransformationBehavior.FabTransformationSpec onCreateMotionSpec(android.content.Context, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.ExpandableBehavior boolean onDependentViewChanged(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationScrimBehavior boolean layoutDependsOn(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.FabTransformationScrimBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.ExpandableBehavior T from(android.view.View, java.lang.Class&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.ExpandableTransformationBehavior android.animation.AnimatorSet onCreateExpandedStateChangeAnimation(android.view.View, android.view.View, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.transformation.ExpandableBehavior T from(android.view.View, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.transformation.ExpandableBehavior boolean onExpandedStateChange(android.view.View, android.view.View, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer android.support.v4.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer void write(android.support.v4.graphics.drawable.IconCompat, androidx.versionedparcelable.VersionedParcel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer void write(android.support.v4.graphics.drawable.IconCompat, androidx.versionedparcelable.VersionedParcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer android.support.v4.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,11 @@
+<root>
+    <item name='android.support.v4.content.WakefulBroadcastReceiver boolean completeWakefulIntent(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.content.WakefulBroadcastReceiver android.content.ComponentName startWakefulService(android.content.Context, android.content.Intent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.content.WakefulBroadcastReceiver android.content.ComponentName startWakefulService(android.content.Context, android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

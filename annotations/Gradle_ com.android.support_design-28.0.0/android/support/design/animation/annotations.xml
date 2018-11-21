@@ -1,0 +1,116 @@
+<root>
+    <item name='android.support.design.animation.ArgbEvaluatorCompat java.lang.Object evaluate(float, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.AnimationUtils FAST_OUT_LINEAR_IN_INTERPOLATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.DrawableAlphaProperty DRAWABLE_ALPHA_COMPAT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.DrawableAlphaProperty void set(android.graphics.drawable.Drawable, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MatrixEvaluator java.lang.Object evaluate(float, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ImageMatrixProperty android.graphics.Matrix get(android.widget.ImageView)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ChildrenAlphaProperty void set(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.AnimatorSetCompat void playTogether(android.animation.AnimatorSet, java.util.List&lt;android.animation.Animator&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.DrawableAlphaProperty void set(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.AnimationUtils FAST_OUT_SLOW_IN_INTERPOLATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ArgbEvaluatorCompat android.support.design.animation.ArgbEvaluatorCompat getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ImageMatrixProperty android.graphics.Matrix get(android.widget.ImageView) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ChildrenAlphaProperty void set(android.view.ViewGroup, java.lang.Float) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ArgbEvaluatorCompat java.lang.Integer evaluate(float, java.lang.Integer, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MatrixEvaluator android.graphics.Matrix evaluate(float, android.graphics.Matrix, android.graphics.Matrix) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ImageMatrixProperty void set(android.widget.ImageView, android.graphics.Matrix) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ImageMatrixProperty java.lang.Object get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ArgbEvaluatorCompat java.lang.Object evaluate(float, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MatrixEvaluator android.graphics.Matrix evaluate(float, android.graphics.Matrix, android.graphics.Matrix)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ChildrenAlphaProperty CHILDREN_ALPHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ChildrenAlphaProperty java.lang.Object get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.DrawableAlphaProperty void set(android.graphics.drawable.Drawable, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.AnimationUtils DECELERATE_INTERPOLATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.AnimationUtils LINEAR_INTERPOLATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.DrawableAlphaProperty void set(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ImageMatrixProperty java.lang.Object get(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MatrixEvaluator java.lang.Object evaluate(float, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MotionSpec android.support.design.animation.MotionSpec createFromAttribute(android.content.Context, android.content.res.TypedArray, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MotionTiming void apply(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ChildrenAlphaProperty void set(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MatrixEvaluator java.lang.Object evaluate(float, java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.AnimatorSetCompat void playTogether(android.animation.AnimatorSet, java.util.List&lt;android.animation.Animator&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ChildrenAlphaProperty java.lang.Float get(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ImageMatrixProperty void set(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ArgbEvaluatorCompat java.lang.Integer evaluate(float, java.lang.Integer, java.lang.Integer) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.ChildrenAlphaProperty void set(android.view.ViewGroup, java.lang.Float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.AnimationUtils LINEAR_OUT_SLOW_IN_INTERPOLATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.animation.MatrixEvaluator android.graphics.Matrix evaluate(float, android.graphics.Matrix, android.graphics.Matrix) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

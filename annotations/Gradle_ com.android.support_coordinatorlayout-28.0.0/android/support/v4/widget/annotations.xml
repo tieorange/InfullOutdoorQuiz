@@ -1,0 +1,11 @@
+<root>
+    <item name='android.support.v4.widget.ViewGroupUtils void getDescendantRect(android.view.ViewGroup, android.view.View, android.graphics.Rect) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.ViewGroupUtils void getDescendantRect(android.view.ViewGroup, android.view.View, android.graphics.Rect) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.widget.DirectedAcyclicGraph java.util.ArrayList&lt;T&gt; getSortedList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

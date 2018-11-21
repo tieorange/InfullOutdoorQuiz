@@ -1,0 +1,5 @@
+<root>
+    <item name='android.support.design.ripple.RippleUtils android.content.res.ColorStateList convertToRippleDrawableColor(android.content.res.ColorStateList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

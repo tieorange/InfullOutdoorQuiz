@@ -1,0 +1,539 @@
+<root>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior.SavedState CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar B setBehavior(android.support.design.widget.BaseTransientBottomBar.Behavior)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar B addCallback(android.support.design.widget.BaseTransientBottomBar.BaseCallback&lt;B&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.Behavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.support.design.widget.AppBarLayout, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar android.support.design.widget.SwipeDismissBehavior&lt;? extends android.view.View&gt; getNewBehavior()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean onDependentViewChanged(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setCustomView(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout TabLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addTab(android.support.design.widget.TabLayout.Tab, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout CollapsingToolbarLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.SnackbarContentLayout SnackbarContentLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CircularBorderDrawable void draw(android.graphics.Canvas) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar make(android.view.View, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView.SavedState CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar setActionTextColor(android.content.res.ColorStateList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar setActionTextColor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView NavigationView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setCustomView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar.BehaviorDelegate void setBaseTransientBottomBar(android.support.design.widget.BaseTransientBottomBar&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomNavigationView BottomNavigationView(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar B setDuration(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior android.support.design.widget.BottomSheetBehavior&lt;V&gt; from(V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TextInputLayout TextInputLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton FloatingActionButton(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar.SnackbarLayout SnackbarLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout void removeTab(android.support.design.widget.TabLayout.Tab) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior.SavedState SavedState(android.os.Parcel, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout android.view.ViewGroup.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView void onInsetsChanged(android.support.v4.view.WindowInsetsCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addView(android.view.View, int, android.view.ViewGroup.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.support.design.widget.AppBarLayout.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.Behavior boolean onMeasureChild(android.support.design.widget.CoordinatorLayout, android.support.design.widget.AppBarLayout, int, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout AppBarLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addView(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView.SavedState SavedState(android.os.Parcel, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior android.os.Parcelable onSaveInstanceState(android.support.design.widget.CoordinatorLayout, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior boolean onInterceptTouchEvent(android.support.design.widget.CoordinatorLayout, V, android.view.MotionEvent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar.Behavior boolean onInterceptTouchEvent(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.MotionEvent) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.DescendantOffsetUtils void offsetDescendantRect(android.view.ViewGroup, android.view.View, android.graphics.Rect) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomNavigationView BottomNavigationView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.view.ViewGroup.LayoutParams generateLayoutParams(android.view.ViewGroup.LayoutParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingTextHelper void draw(android.graphics.Canvas) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, T, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean onDependentViewChanged(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, android.view.View) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton boolean onTouchEvent(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.ViewPagerOnTabSelectedListener void onTabSelected(android.support.design.widget.TabLayout.Tab) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.Behavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CircularBorderDrawable boolean getPadding(android.graphics.Rect) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.ScrollingViewBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addView(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addView(android.view.View, android.view.ViewGroup.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior.SavedState SavedState(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.Behavior boolean getInsetDodgeRect(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, android.graphics.Rect) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar BaseTransientBottomBar(android.view.ViewGroup, android.view.View, android.support.design.snackbar.ContentViewCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar setAction(int, android.view.View.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar.SnackbarBaseLayout SnackbarBaseLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean getInsetDodgeRect(android.support.design.widget.CoordinatorLayout, android.view.View, android.graphics.Rect) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.DescendantOffsetUtils void offsetDescendantRect(android.view.ViewGroup, android.view.View, android.graphics.Rect) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.ScrollingViewBehavior ScrollingViewBehavior(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.support.design.widget.AppBarLayout.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.support.design.widget.AppBarLayout.LayoutParams generateLayoutParams(android.view.ViewGroup.LayoutParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior.SavedState void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.ScrollingViewBehavior boolean onMeasureChild(android.support.design.widget.CoordinatorLayout, android.view.View, int, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout AppBarLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.LayoutParams LayoutParams(android.support.design.widget.AppBarLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.view.ViewGroup.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton FloatingActionButton(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.Behavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar setCallback(android.support.design.widget.Snackbar.Callback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout android.widget.FrameLayout.LayoutParams generateLayoutParams(android.view.ViewGroup.LayoutParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout android.support.design.widget.TabLayout.Tab createTabFromPool()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.Behavior void onNestedScroll(android.support.design.widget.CoordinatorLayout, android.support.design.widget.AppBarLayout, android.view.View, int, int, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout android.view.ViewGroup.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TextInputLayout android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.Behavior boolean getInsetDodgeRect(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, android.graphics.Rect) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.Behavior android.os.Parcelable onSaveInstanceState(android.support.design.widget.CoordinatorLayout, android.support.design.widget.AppBarLayout) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar BaseTransientBottomBar(android.view.ViewGroup, android.view.View, android.support.design.snackbar.ContentViewCallback) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout android.support.design.widget.CollapsingToolbarLayout.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.ScrollingViewBehavior boolean onRequestChildRectangleOnScreen(android.support.design.widget.CoordinatorLayout, android.view.View, android.graphics.Rect, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomNavigationView android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout android.view.ViewGroup.LayoutParams generateLayoutParams(android.view.ViewGroup.LayoutParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar boolean hasSnackbarButtonStyleAttr(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean getInsetDodgeRect(android.support.design.widget.CoordinatorLayout, android.view.View, android.graphics.Rect) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.Behavior boolean onDependentViewChanged(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, android.view.View) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setContentDescription(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior boolean onTouchEvent(android.support.design.widget.CoordinatorLayout, V, android.view.MotionEvent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.view.ViewGroup.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout.LayoutParams LayoutParams(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.DescendantOffsetUtils void getDescendantRect(android.view.ViewGroup, android.view.View, android.graphics.Rect) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CircularBorderDrawableLollipop void getOutline(android.graphics.Outline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.ShadowDrawableWrapper boolean getPadding(android.graphics.Rect) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setIcon(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar.BehaviorDelegate BehaviorDelegate(android.support.design.widget.SwipeDismissBehavior&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView NavigationView(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar setAction(java.lang.CharSequence, android.view.View.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TextInputLayout TextInputLayout(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior.SavedState CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior BottomSheetBehavior(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior void onRestoreInstanceState(android.support.design.widget.CoordinatorLayout, V, android.os.Parcelable) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView.SavedState void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout CollapsingToolbarLayout(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout android.widget.FrameLayout.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.widget.LinearLayout.LayoutParams generateLayoutParams(android.view.ViewGroup.LayoutParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar.SnackbarLayout SnackbarLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior void onAttachedToLayoutParams(android.support.design.widget.CoordinatorLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setText(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addTab(android.support.design.widget.TabLayout.Tab, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior void onNestedScroll(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View, int, int, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.SwipeDismissBehavior.OnDismissListener void onDismiss(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.Behavior void onAttachedToLayoutParams(android.support.design.widget.CoordinatorLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout TabLayout(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout android.widget.FrameLayout.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior.SavedState SavedState(android.os.Parcel, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.DescendantOffsetUtils void getDescendantRect(android.view.ViewGroup, android.view.View, android.graphics.Rect) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.ScrollingViewBehavior boolean onDependentViewChanged(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.View) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.widget.LinearLayout.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.SnackbarContentLayout SnackbarContentLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetDialogFragment android.app.Dialog onCreateDialog(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, V, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setContentDescription(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.ScrollingViewBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar BaseTransientBottomBar(android.view.ViewGroup, android.view.View, android.support.design.snackbar.ContentViewCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.SwipeDismissBehavior boolean onInterceptTouchEvent(android.support.design.widget.CoordinatorLayout, V, android.view.MotionEvent) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar make(android.view.View, java.lang.CharSequence, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior.SavedState void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton FloatingActionButton(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout android.support.design.widget.TabLayout.Tab newTab()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior android.support.design.widget.BottomSheetBehavior&lt;V&gt; from(V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingTextHelper void getCollapsedTextActualBounds(android.graphics.RectF) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.ShadowDrawableWrapper void draw(android.graphics.Canvas) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior BaseBehavior(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.LayoutParams LayoutParams(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CollapsingToolbarLayout CollapsingToolbarLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.StateListAnimator void addState(int[], android.animation.ValueAnimator) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar setText(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior boolean onMeasureChild(android.support.design.widget.CoordinatorLayout, android.view.View, int, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.CircularBorderDrawable android.graphics.drawable.Drawable.ConstantState getConstantState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView void setCheckedItem(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setText(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar.BehaviorDelegate void onInterceptTouchEvent(android.support.design.widget.CoordinatorLayout, android.view.View, android.view.MotionEvent) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior boolean onLayoutChild(android.support.design.widget.CoordinatorLayout, V, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar.SnackbarBaseLayout SnackbarBaseLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior android.os.Parcelable onSaveInstanceState(android.support.design.widget.CoordinatorLayout, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton void getMeasuredContentRect(android.graphics.Rect) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean getInsetDodgeRect(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, android.graphics.Rect) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.BaseOnTabSelectedListener void onTabSelected(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addTab(android.support.design.widget.TabLayout.Tab, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.Behavior Behavior(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior void onStopNestedScroll(android.support.design.widget.CoordinatorLayout, V, android.view.View, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomNavigationView BottomNavigationView(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar setText(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomNavigationView android.view.Menu getMenu()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BaseTransientBottomBar B removeCallback(android.support.design.widget.BaseTransientBottomBar.BaseCallback&lt;B&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setIcon(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout.Tab android.support.design.widget.TabLayout.Tab setTag(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout void addTab(android.support.design.widget.TabLayout.Tab) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TextInputLayout TextInputLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout android.widget.LinearLayout.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.BottomSheetBehavior android.os.Parcelable onSaveInstanceState(android.support.design.widget.CoordinatorLayout, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.TabLayout TabLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.Snackbar android.support.design.widget.Snackbar make(android.view.View, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior boolean onMeasureChild(android.support.design.widget.CoordinatorLayout, T, int, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton.BaseBehavior boolean getInsetDodgeRect(android.support.design.widget.CoordinatorLayout, android.support.design.widget.FloatingActionButton, android.graphics.Rect) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView android.view.Menu getMenu()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.AppBarLayout.BaseBehavior void onNestedScroll(android.support.design.widget.CoordinatorLayout, T, android.view.View, int, int, int, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.NavigationView NavigationView(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.widget.FloatingActionButton android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

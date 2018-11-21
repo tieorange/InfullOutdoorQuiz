@@ -1,0 +1,11 @@
+<root>
+    <item name='android.arch.lifecycle.Transformations android.arch.lifecycle.LiveData&lt;Y&gt; switchMap(android.arch.lifecycle.LiveData&lt;X&gt;, android.arch.core.util.Function&lt;X,android.arch.lifecycle.LiveData&lt;Y&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.arch.lifecycle.Transformations android.arch.lifecycle.LiveData&lt;Y&gt; map(android.arch.lifecycle.LiveData&lt;X&gt;, android.arch.core.util.Function&lt;X,Y&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.arch.lifecycle.ComputableLiveData android.arch.lifecycle.LiveData&lt;T&gt; getLiveData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

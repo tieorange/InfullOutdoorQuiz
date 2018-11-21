@@ -1,0 +1,68 @@
+<root>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealEvaluator java.lang.Object evaluate(float, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealScrimColorProperty java.lang.Object get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealEvaluator android.support.design.circularreveal.CircularRevealWidget.RevealInfo evaluate(float, android.support.design.circularreveal.CircularRevealWidget.RevealInfo, android.support.design.circularreveal.CircularRevealWidget.RevealInfo) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealProperty java.lang.Object get(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.RevealInfo void set(android.support.design.circularreveal.CircularRevealWidget.RevealInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealEvaluator android.support.design.circularreveal.CircularRevealWidget.RevealInfo evaluate(float, android.support.design.circularreveal.CircularRevealWidget.RevealInfo, android.support.design.circularreveal.CircularRevealWidget.RevealInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealEvaluator java.lang.Object evaluate(float, java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealEvaluator CIRCULAR_REVEAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealProperty CIRCULAR_REVEAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealScrimColorProperty java.lang.Integer get(android.support.design.circularreveal.CircularRevealWidget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealScrimColorProperty void set(android.support.design.circularreveal.CircularRevealWidget, java.lang.Integer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealEvaluator java.lang.Object evaluate(float, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealScrimColorProperty void set(android.support.design.circularreveal.CircularRevealWidget, java.lang.Integer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.RevealInfo RevealInfo(android.support.design.circularreveal.CircularRevealWidget.RevealInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealEvaluator android.support.design.circularreveal.CircularRevealWidget.RevealInfo evaluate(float, android.support.design.circularreveal.CircularRevealWidget.RevealInfo, android.support.design.circularreveal.CircularRevealWidget.RevealInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealProperty void set(android.support.design.circularreveal.CircularRevealWidget, android.support.design.circularreveal.CircularRevealWidget.RevealInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealScrimColorProperty void set(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealCompat android.animation.Animator.AnimatorListener createCircularRevealListener(android.support.design.circularreveal.CircularRevealWidget)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealProperty void set(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealScrimColorProperty void set(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealProperty android.support.design.circularreveal.CircularRevealWidget.RevealInfo get(android.support.design.circularreveal.CircularRevealWidget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.circularreveal.CircularRevealWidget.CircularRevealScrimColorProperty CIRCULAR_REVEAL_SCRIM_COLOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

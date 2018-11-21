@@ -1,0 +1,23 @@
+<root>
+    <item name='android.support.design.resources.TextAppearance void updateTextPaintMeasureState(android.text.TextPaint, android.graphics.Typeface) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.resources.TextAppearance void updateTextPaintMeasureState(android.text.TextPaint, android.graphics.Typeface) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.resources.MaterialResources android.support.design.resources.TextAppearance getTextAppearance(android.content.Context, android.content.res.TypedArray, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.resources.TextAppearance TextAppearance(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.resources.MaterialResources android.content.res.ColorStateList getColorStateList(android.content.Context, android.content.res.TypedArray, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.resources.MaterialResources android.graphics.drawable.Drawable getDrawable(android.content.Context, android.content.res.TypedArray, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.resources.TextAppearance void updateDrawState(android.content.Context, android.text.TextPaint, android.support.v4.content.res.ResourcesCompat.FontCallback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
